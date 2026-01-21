@@ -3,6 +3,9 @@
 ![](https://github.com/karriereat/pdf-merge/workflows/CI/badge.svg)
 [![Packagist Downloads](https://img.shields.io/packagist/dt/karriere/pdf-merge.svg?style=flat-square)](https://packagist.org/packages/karriere/pdf-merge)
 
+> [!CAUTION]
+> This is not an official fork! Icinga is not planning to maintain it long term. This repository may be deleted without any notice, at any time.
+
 # Pdf Merge Solution for PHP
 
 This package is a wrapper for the `TCPDF` class that provides an elegant API for merging PDF files.
